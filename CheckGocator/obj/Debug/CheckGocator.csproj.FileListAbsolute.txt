@@ -1,0 +1,13 @@
+C:\Users\Abiz-Pakorn\source\repos\CheckGocator\CheckGocator\bin\Debug\CheckGocator.exe.config
+C:\Users\Abiz-Pakorn\source\repos\CheckGocator\CheckGocator\bin\Debug\CheckGocator.exe
+C:\Users\Abiz-Pakorn\source\repos\CheckGocator\CheckGocator\bin\Debug\CheckGocator.pdb
+C:\Users\Abiz-Pakorn\source\repos\CheckGocator\CheckGocator\obj\Debug\CheckGocator.csprojAssemblyReference.cache
+C:\Users\Abiz-Pakorn\source\repos\CheckGocator\CheckGocator\obj\Debug\CheckGocator.Form1.resources
+C:\Users\Abiz-Pakorn\source\repos\CheckGocator\CheckGocator\obj\Debug\CheckGocator.Properties.Resources.resources
+C:\Users\Abiz-Pakorn\source\repos\CheckGocator\CheckGocator\obj\Debug\CheckGocator.csproj.GenerateResource.cache
+C:\Users\Abiz-Pakorn\source\repos\CheckGocator\CheckGocator\obj\Debug\CheckGocator.csproj.CoreCompileInputs.cache
+C:\Users\Abiz-Pakorn\source\repos\CheckGocator\CheckGocator\obj\Debug\CheckGocator.exe
+C:\Users\Abiz-Pakorn\source\repos\CheckGocator\CheckGocator\obj\Debug\CheckGocator.pdb
+C:\Users\Abiz-Pakorn\source\repos\CheckGocator\CheckGocator\bin\Debug\EasyModbus.dll
+C:\Users\Abiz-Pakorn\source\repos\CheckGocator\CheckGocator\bin\Debug\EasyModbus.xml
+C:\Users\Abiz-Pakorn\source\repos\CheckGocator\CheckGocator\obj\Debug\CheckGocator.csproj.CopyComplete
